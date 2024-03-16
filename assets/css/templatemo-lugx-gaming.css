@@ -660,6 +660,10 @@ Banner Style
   padding: 225px 0px;
 }
 
+.main-banner.qr {
+  padding: 30px 0px;
+}
+
 .main-banner .caption h6 {
   font-size: 20px;
   text-transform: uppercase;
@@ -806,6 +810,18 @@ Treasure group colors
 .response {
   font-size: 24px;
   text-align: center;
+}
+
+/* QR page */
+.error_msg {
+  color: red;
+  font-size: 30px;
+}
+
+.riddle {
+  font-size: 26px;
+  color: black;
+  height: auto;
 }
 
 /* 
