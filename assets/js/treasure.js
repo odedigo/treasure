@@ -19,6 +19,6 @@ $(document).ready(function() {
     }
 
     function getVector(team, index) {
-        console.log(riddles[team].team)
+        console.log(riddles[team])
     }
 });

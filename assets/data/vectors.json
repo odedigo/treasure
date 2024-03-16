@@ -5,7 +5,7 @@
         "riddles": [
             {
                 "index": 1,
-                "riddle": "חידה",
+                "riddle": "כחול",
                 "vecSize": "120",
                 "vecAngle": "55"
             },
@@ -40,7 +40,7 @@
         "riddles": [
             {
                 "index": 1,
-                "riddle": "חידה",
+                "riddle": "ירוק",
                 "vecSize": "120",
                 "vecAngle": "55"
             },
@@ -75,7 +75,7 @@
         "riddles": [
             {
                 "index": 1,
-                "riddle": "חידה",
+                "riddle": "אדום",
                 "vecSize": "120",
                 "vecAngle": "55"
             },
