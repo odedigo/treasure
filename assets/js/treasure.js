@@ -11,13 +11,14 @@ $(document).ready(function() {
     
     function loadRiddle() {
         $.getJSON("https://odedigo.github.io/treasure/assets/data/vectors.json", function(data){
-            console.log(data);
+            riddles = data;
+            getVector("blue",1)
         }).fail(function(){
-            console.log("An error has occurred.");
+            console.log("Failed to load data from JSON.");
         });
     }
 
     function getVector(team, index) {
-
+        console.log(riddles[team])
     }
 });
