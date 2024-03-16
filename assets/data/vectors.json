@@ -1,0 +1,106 @@
+{
+    "version": "1.0",
+    "blue": {
+        "riddles": [
+            {
+                "index": 1,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 2,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 3,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 4,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 5,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            }
+        ]
+    },
+    "green": {
+        "riddles": [
+            {
+                "index": 1,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 2,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 3,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 4,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 5,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            }
+        ]
+    },
+    "red": {
+        "riddles": [
+            {
+                "index": 1,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 2,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 3,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 4,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            },
+            {
+                "index": 5,
+                "riddle": "חידה",
+                "vecSize": "120",
+                "vecAngle": "55"
+            }
+        ]
+    }
+
+}
