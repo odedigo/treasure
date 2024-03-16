@@ -10,8 +10,8 @@ $(document).ready(function() {
     }); 
     
     function loadRiddle() {
-        $.getJSON("assets/data/vectors.json", function(data){
-            console.log(data.version);
+        $.getJSON("https://odedigo.github.io/treasure/assets/data/vectors.json", function(data){
+            console.log(data);
         }).fail(function(){
             console.log("An error has occurred.");
         });
